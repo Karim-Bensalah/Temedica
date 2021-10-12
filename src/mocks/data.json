@@ -1,0 +1,14 @@
+{
+  "posts": [{"id": 1, "title": "json-server", "author": "typicode"}],
+  "comments": [{"id": 1, "body": "some comment", "postId": 1}],
+  "profile": {"name": "typicode"},
+  "drugs": [
+    {"name": "Augmentin1", "description": "description", "date": "12/2/2025","related":"high blood pressure"},
+    {"name": "Augmentin2", "description": "description", "date": "12/2/2025","related":"high blood pressure"},
+    {"name": "Augmentin3", "description": "description", "date": "12/2/2025","related":"high blood pressure"},
+    {"name": "Augmentin", "description": "description", "date": "12/2/2025","related":"high blood pressure"},
+    {"name": "Augmentin", "description": "description", "date": "12/2/2025","related":"high blood pressure"},
+    {"name": "Augmentin4", "description": "description", "date": "12/2/2025","related":"high blood pressure"},
+    {"name": "Augmentin", "description": "description", "date": "12/2/2025","related":"high blood pressure"}
+  ]
+}
